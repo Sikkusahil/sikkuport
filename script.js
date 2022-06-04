@@ -38,7 +38,7 @@ $(document).ready(function(){
     });
     var typed = new Typed(".typing-2", {
         strings: ["Programmer","Software Developer", "Web Developer"],
-        typeSpeed: 100,
+        typeSpeed: 90,
         backSpeed: 60,
         loop: true
     });
